@@ -1,4 +1,5 @@
 # Source-Engine-SDK
+You need to reference all the .libs, you can find them in https://github.com/ValveSoftware/source-sdk-2013
 Set it up like this
 
     //TF2 Indexes
